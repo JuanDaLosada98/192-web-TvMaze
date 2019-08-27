@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.logo__maze{
+    width: 158px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+  
+    background-color: #3f3f3f;
+    
+}
+
+
+.header__left{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 30px;
+}
+
+
+
+.search__button{
+    width: 45px;
+}
